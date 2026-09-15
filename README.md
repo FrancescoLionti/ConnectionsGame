@@ -1,5 +1,5 @@
-# Progetto Laboratorio III
-**Studente:** Francesco Lionti (Matricola: 658189)
+# ConnectionsGame
+Francesco Lionti 
 
 Questo progetto implementa un'applicazione Client-Server per un gioco basato su parole, sviluppata in Java. Il sistema fa uso di architetture di rete ibride (TCP via NIO e UDP per il broadcast asincrono), multithreading e concorrenza avanzata, con messaggistica strutturata in formato JSON.
 
