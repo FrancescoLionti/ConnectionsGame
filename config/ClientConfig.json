@@ -1,0 +1,5 @@
+{
+    "serverAddress": "127.0.0.1",
+    "clientPortUDP": 0,
+    "serverPort": 8080
+}
